@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Samsam-lee's github stats](https://github-readme-stats.vercel.app/api?username=Samsam-lee&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Samsam-lee)](https://solved.ac/Samsam-lee)
