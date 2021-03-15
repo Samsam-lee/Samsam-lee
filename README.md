@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div> 
+<div align=center> 
   
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devLSH)](https://www.facebook.com/devLSH)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lsh_s2/)](https://www.instagram.com/lsh_s2)
