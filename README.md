@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=100&section=header&text=Lee&fontSize=75&animation=fadeIn&fontColor=585858)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=100&section=footer&text=SeungHyeong&fontSize=75&animation=fadeIn&fontColor=585858)
+
 <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamsam-lee%2Fhit-counter&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
