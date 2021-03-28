@@ -33,7 +33,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seunghyeong27@gmail.com)](mailto:seunghyeong27@gmail.com)
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Samsam-lee/)](https://github.com/Samsam-lee/)
 
-<!-- 푸터 -->
+<!-- footer -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFBF00&height=10&section=footer&fontSize=80&animation=fadeIn&fontColor=585858)
   
 </div>
