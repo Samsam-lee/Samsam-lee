@@ -15,7 +15,7 @@
 
 <div align=center>
 
-<!-- 헤더 -->
+<!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=100&section=header&text=Lee%20SH&fontSize=60&animation=fadeIn&fontColor=585858)
 
 <!-- 조회 수 -->
