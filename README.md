@@ -21,7 +21,11 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamsam-lee%2Fhit-counter&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 깃허브 스탯 -->
+<!--
 ![Samsam-lee's github stats](https://github-readme-stats.vercel.app/api?username=Samsam-lee&show_icons=true)
+-->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Samsam-lee&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Samsam-lee&layout=compact&langs_count=8"/>
 
 <!-- -->
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Samsam-lee)](https://solved.ac/Samsam-lee)-->
