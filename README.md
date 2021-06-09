@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h3> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  😄 コミュニケーションと人間性が重要だと思う &nbsp; 🎯 諦めずに挑戦しよう </h3>
+<h3> 😄 コミュニケーションと人間性が重要だと思う &nbsp; &nbsp; 🎯 諦めずに挑戦しよう </h3>
 
 <div align=center>
 
