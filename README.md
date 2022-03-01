@@ -11,8 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h3> Challenge, Communication </h3>
 <h3> 😄 コミュニケーションと人間性が重要だと思う &nbsp; &nbsp; 🎯 諦めずに挑戦しよう </h3>
+-->
 
 <div align=center>
 
