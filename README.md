@@ -30,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-Native-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactNative-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a>
   
 <!-- footer -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FFBF00&height=10&section=footer&fontSize=80&animation=fadeIn&fontColor=585858) -->
