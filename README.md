@@ -5,6 +5,9 @@
 
 <div align=center>
   
+<!-- header -->
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=100&section=header&text=Lee%20SH&fontSize=60&animation=fadeIn&fontColor=585858) 
+  
 <div style="display: flex; align-items: flex-start;">
 <img src="https://user-images.githubusercontent.com/55175301/156929702-b74086b4-6574-47cb-8494-8304bebeaf39.svg" alt="icon" width="100" height="100" />
 <img src="https://user-images.githubusercontent.com/55175301/156929641-78891632-cc6c-47d6-9093-ef8587b8d132.svg" alt="icon" width="100" height="100" />
@@ -13,9 +16,6 @@
 <!-- typescript
 <img src="https://user-images.githubusercontent.com/55175301/156929678-b21d4392-ebfd-491c-886c-a5c9dc24f7c2.svg" alt="icon" width="100" height="100" /> 
 -->
-
-<!-- header -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=100&section=header&text=Lee%20SH&fontSize=60&animation=fadeIn&fontColor=585858) -->
 
 <!-- 조회 수 -->
 <!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamsam-lee%2Fhit-counter&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
@@ -43,6 +43,6 @@
 -->
   
 <!-- footer -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FFBF00&height=10&section=footer&fontSize=80&animation=fadeIn&fontColor=585858) -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFBF00&height=10&section=footer&fontSize=80&animation=fadeIn&fontColor=585858)
   
 </div>
