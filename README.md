@@ -4,6 +4,15 @@
 -->
 
 <div align=center>
+  
+<div style="display: flex; align-items: flex-start;">
+<img src="https://user-images.githubusercontent.com/55175301/156929702-b74086b4-6574-47cb-8494-8304bebeaf39.svg" alt="icon" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/55175301/156929641-78891632-cc6c-47d6-9093-ef8587b8d132.svg" alt="icon" width="100" height="100" />
+</div>  
+
+<!-- typescript
+<img src="https://user-images.githubusercontent.com/55175301/156929678-b21d4392-ebfd-491c-886c-a5c9dc24f7c2.svg" alt="icon" width="100" height="100" /> 
+-->
 
 <!-- header -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=100&section=header&text=Lee%20SH&fontSize=60&animation=fadeIn&fontColor=585858) -->
@@ -18,7 +27,6 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Samsam-lee&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Samsam-lee&layout=compact&langs_count=8"/>
 
-
 <!-- -->
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Samsam-lee)](https://solved.ac/Samsam-lee)-->
 
@@ -28,9 +36,11 @@
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seunghyeong27@gmail.com)](mailto:seunghyeong27@gmail.com) -->
 <!-- [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/Samsam-lee/)](https://github.com/Samsam-lee/) -->
 
+<!--
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactNative-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a>
+-->
   
 <!-- footer -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FFBF00&height=10&section=footer&fontSize=80&animation=fadeIn&fontColor=585858) -->
