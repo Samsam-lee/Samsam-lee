@@ -10,12 +10,12 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=100&section=header&text=Lee%20SH&fontSize=60&animation=fadeIn&fontColor=585858) 
 
   
-<div style="display: flex; align-items: flex-start;">
-<img src="https://user-images.githubusercontent.com/55175301/156929641-78891632-cc6c-47d6-9093-ef8587b8d132.svg" alt="icon" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/55175301/156929678-b21d4392-ebfd-491c-886c-a5c9dc24f7c2.svg" alt="icon" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/55175301/156929702-b74086b4-6574-47cb-8494-8304bebeaf39.svg" alt="icon" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/60730831/191142139-7f23d392-a8fc-491c-8a0e-19b23638cde7.svg" alt="icon" width="80" height="80" />
-<img src="https://user-images.githubusercontent.com/55175301/156929715-f0618a09-5c0a-43af-9f60-c7ca5c33ef94.svg" alt="icon" width="100" height="100" />
+<div style="display: flex; align-items: center;">
+<img src="https://user-images.githubusercontent.com/55175301/156929641-78891632-cc6c-47d6-9093-ef8587b8d132.svg" alt="javascript" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/55175301/156929678-b21d4392-ebfd-491c-886c-a5c9dc24f7c2.svg" alt="typescript" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/55175301/156929702-b74086b4-6574-47cb-8494-8304bebeaf39.svg" alt="react" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/60730831/191142139-7f23d392-a8fc-491c-8a0e-19b23638cde7.svg" alt="java" width="75" height="75" />
+<img src="https://user-images.githubusercontent.com/55175301/156929715-f0618a09-5c0a-43af-9f60-c7ca5c33ef94.svg" alt="rest" width="100" height="100" />
 </div>  
   
 <!-- 조회 수 -->
